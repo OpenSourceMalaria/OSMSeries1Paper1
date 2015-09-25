@@ -2,7 +2,7 @@
 <!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
 <CDXML
  CreationProgram="ChemDraw 14.0.0.117"
- Name="Untitled Document-8"
+ Name="Figure 11.cdxml"
  BoundingBox="18.81 26.72 484.84 332.37"
  WindowPosition="0 0"
  WindowSize="0 0"
@@ -19,6 +19,7 @@
  ShowTerminalCarbonLabels="no"
  ShowNonTerminalCarbonLabels="no"
  HideImplicitHydrogens="no"
+ Magnification="666"
  LabelFont="21"
  LabelSize="10"
  LabelFace="96"
@@ -76,7 +77,7 @@
 <font id="47136" charset="x-mac-roman" name="Arial"/>
 <font id="21" charset="x-mac-roman" name="Helvetica"/>
 </fonttable><page
- id="14604"
+ id="14623"
  BoundingBox="0 0 540 720"
  HeaderPosition="36"
  FooterPosition="36"
@@ -129,6 +130,7 @@
  E="3363"
  Display="Wavy"
  BS="N"
+ CrossingBonds="7064"
 /></fragment><fragment
  id="7038"
  BoundingBox="357.12 149.04 400.45 172.64"
@@ -180,7 +182,7 @@
  AS="N"
  BondOrdering="7061 7062"
 ><fragment
- id="14609"
+ id="14628"
  ConnectionOrder="7053 7054"
 ><n
  id="7045"
@@ -458,6 +460,7 @@
  B="7040"
  E="7057"
  BS="N"
+ CrossingBonds="3364"
 /></fragment></group><group
  id="7065"
  BoundingBox="363.54 115.80 392.93 139.98"
@@ -589,6 +592,7 @@
  B="7220"
  E="3371"
  BS="N"
+ CrossingBonds="3417"
 /></fragment><fragment
  id="7066"
  BoundingBox="363.54 131.29 373.14 139.98"
@@ -620,6 +624,7 @@
  E="3416"
  Display="Wavy"
  BS="N"
+ CrossingBonds="3377"
 /></fragment></group><group
  id="13935"
  BoundingBox="348.41 54.75 404.04 101.34"
@@ -711,6 +716,7 @@
  B="7134"
  E="7135"
  BS="N"
+ CrossingBonds="13916"
 /><b
  id="7158"
  Z="528"
@@ -778,6 +784,7 @@
  E="13915"
  Display="Wavy"
  BS="N"
+ CrossingBonds="7157"
 /></fragment></group><fragment
  id="7067"
  BoundingBox="60.78 64.28 153.12 143.63"
@@ -858,7 +865,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14605"
+ id="14624"
 ><n
  id="7082"
  p="103.89 87.37"
@@ -887,7 +894,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14606"
+ id="14625"
 ><n
  id="7087"
  p="129.19 131.19"
@@ -1129,7 +1136,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14607"
+ id="14626"
 ><n
  id="7178"
  p="237.26 83.60"
@@ -1158,7 +1165,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14608"
+ id="14627"
 ><n
  id="7183"
  p="262.56 127.42"
@@ -1340,7 +1347,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14610"
+ id="14629"
 ><n
  id="14469"
  p="312.75 22.22"
@@ -1465,7 +1472,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14611"
+ id="14630"
 ><n
  id="14478"
  p="-297.18 92.49"
@@ -1631,7 +1638,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14612"
+ id="14631"
 ><n
  id="14481"
  p="169.58 194.81"
@@ -1685,7 +1692,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14613"
+ id="14632"
 ><n
  id="14488"
  p="94.33 306.62"
@@ -1716,7 +1723,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14614"
+ id="14633"
 ><n
  id="14493"
  p="73.73 260.37"
@@ -2069,7 +2076,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14615"
+ id="14634"
 ><n
  id="14498"
  p="223.80 257.60"
@@ -2129,7 +2136,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14616"
+ id="14635"
 ><n
  id="14503"
  p="253.31 298.22"
@@ -2172,7 +2179,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14617"
+ id="14636"
 ><n
  id="14508"
  p="293.20 196.14"
@@ -2448,7 +2455,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14618"
+ id="14637"
 ><n
  id="14515"
  p="402.26 299.72"
@@ -2476,7 +2483,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14619"
+ id="14638"
 ><n
  id="14520"
  p="376.95 255.87"
@@ -2519,7 +2526,7 @@
  NeedsClean="yes"
  AS="N"
 ><fragment
- id="14620"
+ id="14639"
 ><n
  id="14525"
  p="336.31 322.92"
@@ -2784,32 +2791,32 @@
 ><s font="21" size="10" face="1">OSM-S-2</s></t><t
  id="13930"
  p="321 67.16"
- BoundingBox="321 58.99 332.12 69.04"
+ BoundingBox="321 58.88 332.12 68.93"
  Z="611"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="21" size="10" color="0">58</s></t><t
+><s font="21" size="10" color="0" face="1">58</s></t><t
  id="13931"
  p="321 91.91"
- BoundingBox="321 83.74 332.12 93.79"
+ BoundingBox="321 83.63 332.12 93.68"
  Z="612"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="21" size="10" color="0">60</s></t><t
+><s font="21" size="10" color="0" face="1">60</s></t><t
  id="13932"
  p="321 131.04"
- BoundingBox="321 122.87 332.12 132.92"
+ BoundingBox="321 122.76 332.12 132.81"
  Z="613"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="21" size="10" color="0">94</s></t><t
+><s font="21" size="10" color="0" face="1">94</s></t><t
  id="13933"
  p="321 164.85"
- BoundingBox="321 156.68 332.12 166.73"
+ BoundingBox="321 156.57 332.12 166.62"
  Z="614"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="21" size="10" color="0">95</s></t><t
+><s font="21" size="10" color="0" face="1">95</s></t><t
  id="4057"
  p="82.98 329.89"
  BoundingBox="82.98 320.70 130.92 332.37"
@@ -2817,39 +2824,39 @@
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
  WordWrapWidth="48"
-><s font="47136" size="10.15">OSM-S-88</s></t><t
+><s font="47136" size="10.15" face="1">OSM-S-88</s></t><t
  id="4058"
  p="235.13 329.89"
  BoundingBox="235.13 320.70 283.07 332.37"
  Z="722"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="47136" size="10.15">OSM-S-89</s></t><t
+><s font="47136" size="10.15" face="1">OSM-S-89</s></t><t
  id="4059"
  p="382.49 329.89"
  BoundingBox="382.49 320.70 430.43 332.37"
  Z="758"
  Warning="Chemical Interpretation is not possible for this label"
  LineHeight="auto"
-><s font="47136" size="10.15">OSM-S-90</s></t><graphic
- id="14602"
- SupersededBy="14621"
+><s font="47136" size="10.15" face="1">OSM-S-90</s></t><graphic
+ id="14621"
+ SupersededBy="14640"
  BoundingBox="187.50 104.20 164 104.20"
  Z="596"
  GraphicType="Line"
  ArrowType="FullHead"
  HeadSize="1000"
 /><scheme
- id="14622"
+ id="14641"
 ><step
- id="14623"
+ id="14642"
  ReactionStepReactants="7067"
  ReactionStepProducts="7163"
- ReactionStepArrows="14602"
+ ReactionStepArrows="14621"
  ReactionStepObjectsAboveArrow="7036"
 /></scheme><arrow
- id="14621"
- BoundingBox="164 101.70 187.50 105.70"
+ id="14640"
+ BoundingBox="164 102.03 187.50 105.70"
  Z="596"
  FillType="None"
  ArrowheadHead="Full"
